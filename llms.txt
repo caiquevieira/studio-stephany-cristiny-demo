@@ -1,0 +1,21 @@
+# {{NOME_NEGOCIO}}
+
+> {{SEGMENTO}} em {{ENDERECO_COMPLETO}}. {{RESUMO_SERVICOS}}. Atendimento pelo WhatsApp {{WHATSAPP_EXIBICAO}}.
+
+## Dados do negócio
+
+- Endereço: {{ENDERECO_COMPLETO}}
+- Horário: {{HORARIO_RESUMO}}
+- WhatsApp: {{WHATSAPP_EXIBICAO}} (https://wa.me/{{WHATSAPP_NUMERO}})
+- Instagram: {{INSTAGRAM_URL}}
+
+## Serviços
+
+- {{SERVICO_1}}
+- {{SERVICO_2}}
+- {{SERVICO_3}}
+
+## Páginas
+
+- [Página inicial](https://{{DOMINIO}}/)
+- [Política de Privacidade](https://{{DOMINIO}}/politica-de-privacidade.html)
